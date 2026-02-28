@@ -3,6 +3,8 @@
 ### 🛠️ Chi sono
 Sviluppatore appassionato di tutto quello che riguarda l'informatica. Mi piace trasformare le idee in codice e risolvere problemi complessi con soluzioni semplici.
 
+Sono disponibile a collaborare nella realizzazione di progetti!
+
 ---
 
 ### 🛠️ Il mio Stack Tecnologico
