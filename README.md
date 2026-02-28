@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ciao, sono Davide!
 
-<!--
-**davide-ferraroIT/davide-ferraroIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Chi sono
+Sviluppatore appassionato di tutto quello che riguarda l'informatica. Mi piace trasformare le idee in codice e risolvere problemi complessi con soluzioni semplici.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Il mio Stack Tecnologico
+
+| Linguaggi | Framework & Tool |
+| :--- | :--- |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+
+---
+
+### 📊 Statistiche di GitHub
+
+![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=[IL-TUO-USERNAME]&show_icons=true&theme=radical)
+![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=[IL-TUO-USERNAME]&layout=compact&theme=radical)
+
+---
+
+### 📫 Come trovarmi
+[![Portfolio](https://img.shields.io/badge/Portfolio-davide--ferraro.it-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davide-ferraro.it)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[IL-TUO-LINK-LINKEDIN])
