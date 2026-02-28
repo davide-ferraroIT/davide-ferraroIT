@@ -16,8 +16,7 @@ Sviluppatore appassionato di tutto quello che riguarda l'informatica. Mi piace t
 
 ### 📊 Statistiche di GitHub
 
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=[davide-ferraroIT]&show_icons=true&theme=radical)
-![I linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=[davide-ferraroIT]&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davide-ferraroIT&theme=radical)
 
 ---
 
