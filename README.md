@@ -21,12 +21,6 @@ Sono disponibile a collaborare nella realizzazione di progetti!
 
 ---
 
-### 📊 Statistiche di GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davide-ferraroIT&theme=radical)
-
----
-
 ### 📫 Come trovarmi
 [![Portfolio](https://img.shields.io/badge/Portfolio-davide--ferraro.it-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davide-ferraro.it)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[IL-TUO-LINK-LINKEDIN])
